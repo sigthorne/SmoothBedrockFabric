@@ -13,8 +13,9 @@
       "me.xa5.smoothbedrock.SmoothBedrock"
     ]
   },
-  "requires": {
-    "fabricloader": ">=0.4.0"
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "minecraft": ">=1.16.2"
   },
   "mixins": [
     "smoothbedrock.mixins.json"
